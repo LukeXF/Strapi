@@ -24,6 +24,7 @@ This example deploys self-hosted version of [Strapi](https://strapi.io/). Intern
 - Click the Railway button 👆
 - Add the environment variables
   - If you do not add the Cloudinary related environment variables, your images/files will not be persisted between deploys.
+  - For all other environment variable you can set random character
 
 ## 📝 Notes
 
